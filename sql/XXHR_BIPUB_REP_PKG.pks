@@ -20,6 +20,11 @@ CREATE OR REPLACE PACKAGE xxhr_bipub_rep_pkg AS
 --     2.0      03/11/20      Dan Goerdt          N/A       Change 2
 --     3.0      05/29/20      Chandresh Patel     N/A       Change 3
 --     4.0      10/01/20      Dan Goerdt          N/A       Change 4 and 5
+--Bần chỉ là một anh nghèo xác, ngày ngày lang-thang khắp xóm này qua xóm khác xin ăn. Quần áo rách-mướp Bần cũng chả coi sao, chân không có giầy và đầu cũng chẳng có mũ. Giời nắng hay giời mưa Bần không bao giờ quan-tâm. Một ngưòi như Bần thì ai cũng tưởng là không còn có gì là quí-vât nữa. Thế nhưng ta nhầm vì Bần có cái quạt mo, Bần quí lắm. Bần quí và giữ luôn không rời bỏ bao giờ. Giời nắng thì Bần che đầu, giời mưa Bần cũng nhờ nó mà đỡ ướt. Muốn ngồi Bần dùng làm chiếu và đêm đến các chú muỗi vo-ve thì Bần dùng để dánh đuổi các chú ấy.
+-- Աեցեհի իմ լավ ?ւղիե լավարար,
+-- 	Mit sütsz kis szücs, sós húst? Sütsz kis szücs?
+-- 	生むぎ　生ごめ　生たまご
+
 -----------------------------------------------------------------------------------------------------
 
                        

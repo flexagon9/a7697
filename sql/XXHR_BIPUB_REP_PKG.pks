@@ -1,3 +1,7 @@
+SELECT * FROM V$NLS_PARAMETERS;
+
+select VALUE from nls_database_parameters where parameter='NLS_CHARACTERSET';
+
 CREATE OR REPLACE PACKAGE xxhr_bipub_rep_pkg AS
 -----------------------------------------------------------------------------------------------------          
 --
